@@ -46,3 +46,4 @@ public class Salario {
     }
 
 }
+//Feiro por Rafael Ferreira Goulart
